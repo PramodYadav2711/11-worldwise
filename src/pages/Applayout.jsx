@@ -1,6 +1,6 @@
 import AppNav from "../components/AppNav";
 
-function Applayout() {
+function AppLayout() {
   return (
     <div>
       <AppNav />
@@ -9,4 +9,4 @@ function Applayout() {
   );
 }
 
-export default Applayout;
+export default AppLayout;
